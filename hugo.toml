@@ -1,0 +1,9 @@
+baseURL = 'https://duramson.github.io/'
+languageCode = 'de-de'
+title = 'My Blog'
+theme = 'hugo-bearblog'
+
+[params]
+    author = "Cedrik"
+    description = "Reverse Engineering & Programming"
+    accentColor = "#0055FF"
